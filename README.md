@@ -1,4 +1,4 @@
-# ddiff
+# Directory Diff - ddiff
 
 ### Name
   ddiff - diffs all files between two directories
